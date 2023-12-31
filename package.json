@@ -1,0 +1,8 @@
+{
+    "name": "advent-of-code",
+    "version": "1.0.0",
+    "description": "annual Christmas-themed coding challenges",
+    "files": [
+      "README.md, day_1.py, day_2.py"
+    ]
+  }  
